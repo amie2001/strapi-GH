@@ -20,7 +20,9 @@ This project automates the deployment of a Strapi application using a CI/CD pipe
 - AWS ECR used for storing Docker images.
 - EC2 instance used for running the Strapi container.
 - Manual control over production deployments through GitHub Actions `workflow_dispatch`.
-- 
+
+
+ 
 
 **CI PIPELINE SUCCESS** 
 
