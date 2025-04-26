@@ -22,22 +22,22 @@ This project automates the deployment of a Strapi application using a CI/CD pipe
 - Manual control over production deployments through GitHub Actions `workflow_dispatch`.
 - 
 
-- **CI PIPELINE SUCCESS** 
+**CI PIPELINE SUCCESS** 
 
-- ![CI PIPELINE SUCCESS](asset/pipeline.png)
+   ![CI PIPELINE SUCCESS](asset/pipeline.png)
 
-- 
-- **CD PIPELINE SUCCESS**
+ 
+ **CD PIPELINE SUCCESS**
 
-- 
+ 
    ![CD PIPELINE SUCCESS](asset/pipeline.png)
 
 
-- **STRAPI APPLICATION LIVE** 
-- 
-- ![STRAPI APPLICATION LIVE](asset/pipeline.png)
+ **STRAPI APPLICATION LIVE** 
+ 
+   ![STRAPI APPLICATION LIVE](asset/pipeline.png)
 
-- 
+ 
 
 ## ✅ Summary
 
