@@ -21,6 +21,10 @@ This project automates the deployment of a Strapi application using a CI/CD pipe
 - EC2 instance used for running the Strapi container.
 - Manual control over production deployments through GitHub Actions `workflow_dispatch`.
 
+---
+
+🔗 **To know more about this project, visit [GitHub Repository](https://github.com/amie2001/strapi-application.git)**.
+
 
  
 
