@@ -26,18 +26,18 @@ This project automates the deployment of a Strapi application using a CI/CD pipe
 
 **CI PIPELINE SUCCESS** 
 
-   ![CI PIPELINE SUCCESS](asset/pipeline.png)
+   ![CI PIPELINE SUCCESS](asset/ci.png)
 
  
  **CD PIPELINE SUCCESS**
 
  
-   ![CD PIPELINE SUCCESS](asset/pipeline.png)
+   ![CD PIPELINE SUCCESS](asset/cd.png)
 
 
  **STRAPI APPLICATION LIVE** 
  
-   ![STRAPI APPLICATION LIVE](asset/pipeline.png)
+   ![STRAPI APPLICATION LIVE](asset/strapi.png)
 
  
 
