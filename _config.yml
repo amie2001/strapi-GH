@@ -1,5 +1,5 @@
 title: Strapi Deployment Automation
 description: CI/CD and Infrastructure Automation for Strapi using GitHub Actions, Docker, AWS ECR, EC2, and Terraform.
-theme: jekyll-theme-slate	
+theme: jekyll-theme-time-machine	
 show_downloads: false
 google_analytics:
